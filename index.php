@@ -21,7 +21,7 @@
         console.log(parr.length);
 
         let parr2 = document.getElementById('parr2');
-        parr2.innerHTML= "DN";
+        document.parr2.innerHTML= "DN";
     </script>    
 
 
